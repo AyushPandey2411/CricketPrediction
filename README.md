@@ -54,3 +54,11 @@ From raw data to actionable insights, ML-based predictions, and interactive dash
 - 🔮 [Match Outcome Prediction](https://iplmatchanalysispred.streamlit.app/)
 - 🧢 [ML-based Fantasy Team Selector](https://cricfantasyteambasedonml.streamlit.app/)
 - 📊 [Stats-based Fantasy XI Generator](https://cricfantasyteambasedonstats.streamlit.app/)
+
+## ScreenShots
+![Screenshot 2025-04-22 012222](https://github.com/user-attachments/assets/929e70e5-f9db-4e69-986e-ca31afc2551d)
+![Screenshot 2025-04-22 012826](https://github.com/user-attachments/assets/ab86ae7d-080d-4faa-9072-e1cd7e7dc618)
+![Screenshot 2025-04-22 012838](https://github.com/user-attachments/assets/4a7b49d8-64c0-4455-97ce-c2ce3f7f27a1)
+![Screenshot 2025-04-22 012927](https://github.com/user-attachments/assets/207f0643-8e12-4866-bc3c-ed39d88a2d46)
+
+
