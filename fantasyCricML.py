@@ -131,4 +131,4 @@ if search:
 
 # 📄 Footer
 st.markdown("---")
-st.caption("📊 Based on IPL 2022 data | Created with ❤️ by your assistant")
+st.caption("📊 Based on IPL 2022 data | Created with ❤️ by Ayush Pandey")
